@@ -1,0 +1,29 @@
+.list {
+  color: #fff;
+  background-color: rgb(139, 139, 219);
+  margin: 20px auto;
+  height: 40px;
+  border-radius: 5px;
+  text-align: left;
+}
+.list p {
+  padding: 7px;
+}
+.list p input {
+  margin-left: 10px;
+  background-color: transparent;
+  border: 0;
+  color: #fff;
+  font-size: 16px;
+  font-family: sans-serif;
+  width: 150px;
+}
+.btn {
+  float: right;
+  background-color: rgb(114, 114, 243);
+  width: 50px;
+  border: 0;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 5px;
+}

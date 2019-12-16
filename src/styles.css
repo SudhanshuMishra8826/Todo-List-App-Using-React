@@ -1,0 +1,35 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 30px;
+  background-color: rgb(61, 61, 184);
+  border-radius: 20px;
+  padding: 10px;
+}
+body {
+  background-color: rgb(120, 120, 243);
+}
+.title {
+  font-size: 22px;
+  color: white;
+}
+.sign {
+  font-size: 13px;
+  color: white;
+}
+#todoform input {
+  background-color: rgb(217, 217, 243);
+  border: 0;
+  border-radius: 5px;
+  height: 30px;
+  padding: 0px 20px;
+  margin: 10px;
+}
+#todoform button {
+  background-color: rgb(114, 114, 243);
+  width: 50px;
+  height: 30px;
+  border: 0;
+  border-radius: 5px;
+  cursor: pointer;
+}
